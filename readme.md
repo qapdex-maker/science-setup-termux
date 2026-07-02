@@ -1,7 +1,3 @@
-# Termux Science Setup
-
-A collection of scripts to set up a complete data science environment in Termux on Android devices.
-
 ## Overview
 
 This repository provides scripts to easily install and test a comprehensive scientific computing and data analysis environment on Android using Termux. With these scripts, you can transform your Android device into a portable data science workstation with Jupyter notebooks and popular scientific Python libraries.
